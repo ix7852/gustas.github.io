@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gusto Termeno Hugo Site</title>
+    <title>My New Hugo Site</title>
     
     
     
-    <link>https://gustas.github.io/</link>
-    <description>Recent content on Gusto Termeno Hugo Site</description>
+    <link>https://gustastermenas.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Nov 2023 17:17:35 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2023 18:27:40 +0200</lastBuildDate>
     
-	<atom:link href="https://gustas.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gustastermenas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gusto Termeno puslapis</title>
-      <link>https://gustas.github.io/posts/myblog/</link>
-      <pubDate>Sat, 11 Nov 2023 17:17:35 +0200</pubDate>
+      <title>Gustas Termenas SECOND PAGE</title>
+      <link>https://gustastermenas.github.io/posts/myblogsecond/</link>
+      <pubDate>Sat, 11 Nov 2023 18:27:40 +0200</pubDate>
       
-      <guid>https://gustas.github.io/posts/myblog/</guid>
+      <guid>https://gustastermenas.github.io/posts/myblogsecond/</guid>
       <description>
         
           
@@ -28,9 +28,28 @@
         
         
         
-          Introduction#Welcome to Gustas Termenas page!
-Main Content#Here, you can add more detailed content. Use headings, paragraphs, lists, and any other Markdown formatting you need.
-This is a numbered list item. Another item in the list. 
+          Welcome to My New Page#Here&amp;rsquo;s some content for my new page.
+// Example Code func main() { fmt.Println(&amp;#34;Hello, Hugo!&amp;#34;) } 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>GustasTermenas</title>
+      <link>https://gustastermenas.github.io/posts/myblog/</link>
+      <pubDate>Sat, 11 Nov 2023 18:24:02 +0200</pubDate>
+      
+      <guid>https://gustastermenas.github.io/posts/myblog/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
           
         
         </description>
